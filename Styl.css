@@ -572,6 +572,9 @@ li{
         background-color: black;
         
     }
+    .Services{
+        display: none;
+    }
 }
 
 
@@ -714,7 +717,9 @@ li{
         border: none;
         border-radius: 5px;
     }
-
+    .Services{
+        display: none;
+    }
 }
 
 
@@ -888,7 +893,9 @@ li{
         border: none;
         border-radius: 5px;
     }
-
+    .Services{
+        display: none;
+    }
 }
 
 
@@ -1051,7 +1058,9 @@ li{
         border: none;
         border-radius: 5px;
     }
-
+    .Services{
+        display: none;
+    }
 }
 
 
@@ -1357,7 +1366,9 @@ li{
         border: none;
         border-radius: 5px;
     }
-
+    .Services{
+        display: none;
+    }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) and (orientation: landscape){
